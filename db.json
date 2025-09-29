@@ -1,13 +1,13 @@
 {
   "users": [
-    { "id": 100, "name": "Dmytro", "email": "dmytro@example.com", "role": "admin" },
-    { "id": 200, "name": "Olena", "email": "olena@example.com", "role": "editor" },
-    { "id": 300, "name": "Serhii", "email": "serhii@example.com", "role": "user" }
+    { "id": 1, "name": "Dmytro", "email": "dmytro@example.com", "role": "admin" },
+    { "id": 2, "name": "Olena", "email": "olena@example.com", "role": "editor" },
+    { "id": 3, "name": "Serhii", "email": "serhii@example.com", "role": "user" }
   ],
   "posts": [
-    { "id": 11, "title": "HELLO WORLD", "userId": 100, "tags": ["basics"] },
-    { "id": 12, "title": "JSON is trash", "userId": 200, "tags": ["json"] },
-    { "id": 13, "title": "Cybersecurity is important", "userId": 300, "tags": ["cybersecurity"] }
+    { "id": 1, "title": "HELLO WORLD", "userId": 100, "tags": ["basics"] },
+    { "id": 2, "title": "JSON is trash", "userId": 200, "tags": ["json"] },
+    { "id": 3, "title": "Cybersecurity is important", "userId": 300, "tags": ["cybersecurity"] }
   ]
 }
 
